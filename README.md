@@ -26,6 +26,8 @@ Creating the "Digital Clock" was a fulfilling challenge that significantly enhan
 
 ## Video
 
+https://github.com/EngDann/digital-Clock/assets/137555908/582e79fd-2c48-450c-8548-f705c40f83f7
+
 ## How to Use
 
 To run the "Digital Clock" locally, you can follow these steps:
@@ -111,6 +113,8 @@ Criar o "Relógio Digital" foi um desafio gratificante que aprimorou significati
 -   **Temporizadores JavaScript**: O uso de intervalos JavaScript (`setInterval`) para manter o relógio atualizando em tempo real foi um aspecto crítico da funcionalidade.
 
 ## Vídeo
+
+https://github.com/EngDann/digital-Clock/assets/137555908/582e79fd-2c48-450c-8548-f705c40f83f7
 
 ## Como Usar
 
